@@ -368,48 +368,48 @@
     <Compile Include="Game\RenderTextureSetup.cs" />
   </ItemGroup>
   <ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Editor.Windows.Debug|x64' " >
-    <Compile Visible="false" Include="C:\Users\Xapher\Documents\Flax Projects\RainOcclusion\Cache\Intermediate\GameEditorTarget\Windows\x64\Debug\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="G:\Github\FlaxOccludedRainSample\Cache\Intermediate\GameEditorTarget\Windows\x64\Debug\Game\Game.Bindings.Gen.cs" />
   </ItemGroup>
   <ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Editor.Windows.Debug|ARM64' " >
-    <Compile Visible="false" Include="C:\Users\Xapher\Documents\Flax Projects\RainOcclusion\Cache\Intermediate\GameEditorTarget\Windows\ARM64\Debug\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="G:\Github\FlaxOccludedRainSample\Cache\Intermediate\GameEditorTarget\Windows\ARM64\Debug\Game\Game.Bindings.Gen.cs" />
   </ItemGroup>
   <ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Editor.Windows.Development|x64' " >
-    <Compile Visible="false" Include="C:\Users\Xapher\Documents\Flax Projects\RainOcclusion\Cache\Intermediate\GameEditorTarget\Windows\x64\Development\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="G:\Github\FlaxOccludedRainSample\Cache\Intermediate\GameEditorTarget\Windows\x64\Development\Game\Game.Bindings.Gen.cs" />
   </ItemGroup>
   <ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Editor.Windows.Development|ARM64' " >
-    <Compile Visible="false" Include="C:\Users\Xapher\Documents\Flax Projects\RainOcclusion\Cache\Intermediate\GameEditorTarget\Windows\ARM64\Development\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="G:\Github\FlaxOccludedRainSample\Cache\Intermediate\GameEditorTarget\Windows\ARM64\Development\Game\Game.Bindings.Gen.cs" />
   </ItemGroup>
   <ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Editor.Windows.Release|x64' " >
-    <Compile Visible="false" Include="C:\Users\Xapher\Documents\Flax Projects\RainOcclusion\Cache\Intermediate\GameEditorTarget\Windows\x64\Release\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="G:\Github\FlaxOccludedRainSample\Cache\Intermediate\GameEditorTarget\Windows\x64\Release\Game\Game.Bindings.Gen.cs" />
   </ItemGroup>
   <ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Editor.Windows.Release|ARM64' " >
-    <Compile Visible="false" Include="C:\Users\Xapher\Documents\Flax Projects\RainOcclusion\Cache\Intermediate\GameEditorTarget\Windows\ARM64\Release\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="G:\Github\FlaxOccludedRainSample\Cache\Intermediate\GameEditorTarget\Windows\ARM64\Release\Game\Game.Bindings.Gen.cs" />
   </ItemGroup>
   <ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Game.Windows.Debug|x64' " >
-    <Compile Visible="false" Include="C:\Users\Xapher\Documents\Flax Projects\RainOcclusion\Cache\Intermediate\GameTarget\Windows\x64\Debug\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="G:\Github\FlaxOccludedRainSample\Cache\Intermediate\GameTarget\Windows\x64\Debug\Game\Game.Bindings.Gen.cs" />
   </ItemGroup>
   <ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Game.Windows.Debug|Win32' " >
-    <Compile Visible="false" Include="C:\Users\Xapher\Documents\Flax Projects\RainOcclusion\Cache\Intermediate\GameTarget\Windows\Win32\Debug\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="G:\Github\FlaxOccludedRainSample\Cache\Intermediate\GameTarget\Windows\Win32\Debug\Game\Game.Bindings.Gen.cs" />
   </ItemGroup>
   <ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Game.Windows.Debug|ARM64' " >
-    <Compile Visible="false" Include="C:\Users\Xapher\Documents\Flax Projects\RainOcclusion\Cache\Intermediate\GameTarget\Windows\ARM64\Debug\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="G:\Github\FlaxOccludedRainSample\Cache\Intermediate\GameTarget\Windows\ARM64\Debug\Game\Game.Bindings.Gen.cs" />
   </ItemGroup>
   <ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Game.Windows.Development|x64' " >
-    <Compile Visible="false" Include="C:\Users\Xapher\Documents\Flax Projects\RainOcclusion\Cache\Intermediate\GameTarget\Windows\x64\Development\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="G:\Github\FlaxOccludedRainSample\Cache\Intermediate\GameTarget\Windows\x64\Development\Game\Game.Bindings.Gen.cs" />
   </ItemGroup>
   <ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Game.Windows.Development|Win32' " >
-    <Compile Visible="false" Include="C:\Users\Xapher\Documents\Flax Projects\RainOcclusion\Cache\Intermediate\GameTarget\Windows\Win32\Development\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="G:\Github\FlaxOccludedRainSample\Cache\Intermediate\GameTarget\Windows\Win32\Development\Game\Game.Bindings.Gen.cs" />
   </ItemGroup>
   <ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Game.Windows.Development|ARM64' " >
-    <Compile Visible="false" Include="C:\Users\Xapher\Documents\Flax Projects\RainOcclusion\Cache\Intermediate\GameTarget\Windows\ARM64\Development\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="G:\Github\FlaxOccludedRainSample\Cache\Intermediate\GameTarget\Windows\ARM64\Development\Game\Game.Bindings.Gen.cs" />
   </ItemGroup>
   <ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Game.Windows.Release|x64' " >
-    <Compile Visible="false" Include="C:\Users\Xapher\Documents\Flax Projects\RainOcclusion\Cache\Intermediate\GameTarget\Windows\x64\Release\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="G:\Github\FlaxOccludedRainSample\Cache\Intermediate\GameTarget\Windows\x64\Release\Game\Game.Bindings.Gen.cs" />
   </ItemGroup>
   <ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Game.Windows.Release|Win32' " >
-    <Compile Visible="false" Include="C:\Users\Xapher\Documents\Flax Projects\RainOcclusion\Cache\Intermediate\GameTarget\Windows\Win32\Release\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="G:\Github\FlaxOccludedRainSample\Cache\Intermediate\GameTarget\Windows\Win32\Release\Game\Game.Bindings.Gen.cs" />
   </ItemGroup>
   <ItemGroup Condition=" '$(Configuration)|$(Platform)' == 'Game.Windows.Release|ARM64' " >
-    <Compile Visible="false" Include="C:\Users\Xapher\Documents\Flax Projects\RainOcclusion\Cache\Intermediate\GameTarget\Windows\ARM64\Release\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="G:\Github\FlaxOccludedRainSample\Cache\Intermediate\GameTarget\Windows\ARM64\Release\Game\Game.Bindings.Gen.cs" />
   </ItemGroup>
 </Project>

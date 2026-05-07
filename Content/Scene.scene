@@ -171,41 +171,6 @@
 			"Name": "BoxCollider"
 		},
 		{
-			"ID": "77d387d14f1cc0ea19f0468e5e9fb7ae",
-			"TypeName": "FlaxEngine.StaticModel",
-			"ParentID": "2c79946b4216ecd81e168dbda685a54b",
-			"Name": "Floor 1",
-			"Transform": {
-				"Translation": {
-					"X": 2547.95556640625,
-					"Y": 2507.03515625,
-					"Z": 1044.00439453125
-				},
-				"Scale": {
-					"X": 10.0,
-					"Y": 0.5,
-					"Z": 10.0
-				}
-			},
-			"Model": "b43f0f8f4aaba3f3156896a5a22ba493",
-			"Buffer": {
-				"Entries": [
-					{
-						"Material": "382f1ae946c519eff6e6f3a2965cf56b",
-						"ShadowsMode": 3,
-						"Visible": true,
-						"ReceiveDecals": true
-					}
-				]
-			}
-		},
-		{
-			"ID": "1459ad62495b3ec4454911bb4b30b054",
-			"TypeName": "FlaxEngine.BoxCollider",
-			"ParentID": "77d387d14f1cc0ea19f0468e5e9fb7ae",
-			"Name": "BoxCollider"
-		},
-		{
 			"ID": "5f2e0455437213ac6a034789b3fecb16",
 			"TypeName": "FlaxEngine.StaticModel",
 			"ParentID": "2c79946b4216ecd81e168dbda685a54b",
@@ -247,9 +212,9 @@
 			"Name": "Cube",
 			"Transform": {
 				"Translation": {
-					"X": 249.35872039794924,
-					"Y": -3480.8060455322266,
-					"Z": 37.54910507202148
+					"X": 249.3587188720703,
+					"Y": -3480.80615234375,
+					"Z": 37.54910659790039
 				},
 				"Scale": {
 					"X": 0.10000000149011612,

@@ -2,9 +2,9 @@
   "profiles": {
     "Game": {
       "commandName": "Executable",
-      "workingDirectory": "C:/Users/Xapher/Documents/Flax Projects/RainOcclusion",
+      "workingDirectory": "G:/Github/FlaxOccludedRainSample",
       "executablePath": "D:/FlaxEngine/Flax1-11/Binaries/Editor/Win64/$(FlaxConfiguration)/FlaxEditor.exe",
-      "commandLineArgs": "-project \"C:/Users/Xapher/Documents/Flax Projects/RainOcclusion\"",
+      "commandLineArgs": "-project \"G:/Github/FlaxOccludedRainSample\"",
       "nativeDebugging": false
     }
   }

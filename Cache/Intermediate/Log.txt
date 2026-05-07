@@ -1,0 +1,149 @@
+[00:00:007] Flax.Build 1.0.0
+[00:00:007]   Arguments: log -mutex -genproject -vs2022
+[00:00:007]   Workspace: G:\Github\FlaxOccludedRainSample
+[00:00:007]   Engine: D:\FlaxEngine\Flax1-11
+[00:00:007]   .NET 10.0.5
+[00:00:011] Loading project file from "G:\Github\FlaxOccludedRainSample\RainOcclusion.flaxproj"...
+[00:00:043] Loading project file from "D:\FlaxEngine\Flax1-11\Flax.flaxproj"...
+[00:00:044] Loaded project Flax, version 1.11.6808
+[00:00:044] Loaded project FlaxOccludedRainSample, version 1.0
+[00:00:081] Engine build version: 1.11.6808
+[00:01:383] Assembler time: 1.2912648s
+[00:01:399] Missing Android SDK. Cannot build for Android platform.
+[00:01:400] Missing Linux Toolchain. Cannot build for Linux platform.
+[00:01:405] Found Windows SDK v10_0_26100_0 at C:\Program Files (x86)\Windows Kits\10\
+[00:01:423] Found VisualStudio2022 at C:\Program Files\Microsoft Visual Studio\2022\Community
+[00:01:426] Found Windows toolset v144 at C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207
+[00:01:429] Generating project files...
+[00:01:436] Found target GameEditorTarget
+[00:01:436] Found target GameTarget
+[00:01:436] Found target FlaxEditor
+[00:01:436] Found target FlaxGame
+[00:01:436] Found target FlaxTestsTarget
+[00:01:436] Found target FlaxBuildTarget
+[00:01:436] Found target FlaxBuildTestsTarget
+[00:01:436] Found project Flax
+[00:01:461] Missing VULKAN_SDK environment variable. Cannot build Vulkan.
+[00:01:461] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:479] Found the following .NET SDK versions: 9.0.312, 8.0.419
+[00:01:479] Found the following .NET runtime versions: 9.0.14, 8.0.25
+[00:01:482] Using .NET SDK 9.0.312, runtime 9.0.14 (C:\Program Files\dotnet\)
+[00:01:484]   - Host Runtime for Windows x64
+[00:01:484]   - Host Runtime for Windows x86
+[00:01:484]   - Host Runtime for Windows ARM64
+[00:01:496] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:01:502] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:01:502] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\Hostx64\arm64\cl.exe
+[00:01:502] Skipping configuration Editor.Windows.Debug for ARM64: Unsupported target architecture
+[00:01:514] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:01:520] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:01:520] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\Hostx64\arm64\cl.exe
+[00:01:520] Skipping configuration Editor.Windows.Development for ARM64: Unsupported target architecture
+[00:01:533] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:01:538] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:01:538] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\Hostx64\arm64\cl.exe
+[00:01:539] Skipping configuration Editor.Windows.Release for ARM64: Unsupported target architecture
+[00:01:539] Skipping configuration Editor.Linux.Debug for x64: Missing platform SDK
+[00:01:539] Skipping configuration Editor.Linux.Development for x64: Missing platform SDK
+[00:01:539] Skipping configuration Editor.Linux.Release for x64: Missing platform SDK
+[00:01:539] Skipping configuration Editor.Mac.Debug for x64: Missing platform SDK
+[00:01:539] Skipping configuration Editor.Mac.Debug for ARM64: Missing platform SDK
+[00:01:539] Skipping configuration Editor.Mac.Development for x64: Missing platform SDK
+[00:01:539] Skipping configuration Editor.Mac.Development for ARM64: Missing platform SDK
+[00:01:539] Skipping configuration Editor.Mac.Release for x64: Missing platform SDK
+[00:01:539] Skipping configuration Editor.Mac.Release for ARM64: Missing platform SDK
+[00:01:549] Skipping configuration Game.Windows.Debug for x86: Unsupported target architecture
+[00:01:549] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\Hostx64\arm64\cl.exe
+[00:01:550] Skipping configuration Game.Windows.Debug for ARM64: Unsupported target architecture
+[00:01:563] Skipping configuration Game.Windows.Development for x86: Unsupported target architecture
+[00:01:563] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\Hostx64\arm64\cl.exe
+[00:01:563] Skipping configuration Game.Windows.Development for ARM64: Unsupported target architecture
+[00:01:585] Skipping configuration Game.Windows.Release for x86: Unsupported target architecture
+[00:01:586] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\Hostx64\arm64\cl.exe
+[00:01:586] Skipping configuration Game.Windows.Release for ARM64: Unsupported target architecture
+[00:01:586] Skipping configuration Game.Linux.Debug for x64: Missing platform SDK
+[00:01:586] Skipping configuration Game.Linux.Development for x64: Missing platform SDK
+[00:01:586] Skipping configuration Game.Linux.Release for x64: Missing platform SDK
+[00:01:586] Skipping configuration Game.Android.Debug for ARM64: Missing platform SDK
+[00:01:586] Skipping configuration Game.Android.Development for ARM64: Missing platform SDK
+[00:01:586] Skipping configuration Game.Android.Release for ARM64: Missing platform SDK
+[00:01:586] Skipping configuration Game.Mac.Debug for x64: Missing platform SDK
+[00:01:586] Skipping configuration Game.Mac.Debug for ARM64: Missing platform SDK
+[00:01:586] Skipping configuration Game.Mac.Development for x64: Missing platform SDK
+[00:01:586] Skipping configuration Game.Mac.Development for ARM64: Missing platform SDK
+[00:01:586] Skipping configuration Game.Mac.Release for x64: Missing platform SDK
+[00:01:586] Skipping configuration Game.Mac.Release for ARM64: Missing platform SDK
+[00:01:586] Skipping configuration Game.iOS.Debug for ARM64: Missing platform SDK
+[00:01:586] Skipping configuration Game.iOS.Development for ARM64: Missing platform SDK
+[00:01:586] Skipping configuration Game.iOS.Release for ARM64: Missing platform SDK
+[00:01:598] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:01:603] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:01:603] Skipping configuration Tests.Linux.Development for x64: Missing platform SDK
+[00:01:603] Skipping configuration Tests.Mac.Development for x64: Missing platform SDK
+[00:01:614] Found project Flax.Build
+[00:01:614] Found project Flax.Build.Tests
+[00:01:614] Found project FlaxOccludedRainSample
+[00:01:638] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\Hostx64\arm64\cl.exe
+[00:01:638] Exception: No x64 host compiler tools found for target architecture ARM64
+[00:01:638] Stack trace:
+[00:01:643]    at Flax.Build.Platforms.WindowsToolchainBase..ctor(WindowsPlatformBase platform, TargetArchitecture architecture, WindowsPlatformToolset toolsetVer, WindowsPlatformSDK sdkVer) in D:\FlaxEngine\Flax1-11\Source\Tools\Flax.Build\Platforms\Windows\WindowsToolchainBase.cs:line 148
+   at Flax.Build.Platforms.WindowsToolchain..ctor(WindowsPlatform platform, TargetArchitecture architecture) in D:\FlaxEngine\Flax1-11\Source\Tools\Flax.Build\Platforms\Windows\WindowsToolchain.cs:line 44
+   at Flax.Build.Platforms.WindowsPlatform.CreateToolchain(TargetArchitecture architecture) in D:\FlaxEngine\Flax1-11\Source\Tools\Flax.Build\Platforms\Windows\WindowsPlatform.cs:line 54
+   at Flax.Build.Platform.GetToolchain(TargetArchitecture targetArchitecture) in D:\FlaxEngine\Flax1-11\Source\Tools\Flax.Build\Build\Platform.cs:line 288
+   at Flax.Build.Platform.TryGetToolchain(TargetArchitecture targetArchitecture) in D:\FlaxEngine\Flax1-11\Source\Tools\Flax.Build\Build\Platform.cs:line 260
+[00:01:763] Skipping configuration Editor.Linux.Debug for x64: Missing platform SDK
+[00:01:763] Skipping configuration Editor.Linux.Development for x64: Missing platform SDK
+[00:01:763] Skipping configuration Editor.Linux.Release for x64: Missing platform SDK
+[00:01:763] Skipping configuration Editor.Mac.Debug for x64: Missing platform SDK
+[00:01:763] Skipping configuration Editor.Mac.Debug for ARM64: Missing platform SDK
+[00:01:763] Skipping configuration Editor.Mac.Development for x64: Missing platform SDK
+[00:01:764] Skipping configuration Editor.Mac.Development for ARM64: Missing platform SDK
+[00:01:764] Skipping configuration Editor.Mac.Release for x64: Missing platform SDK
+[00:01:764] Skipping configuration Editor.Mac.Release for ARM64: Missing platform SDK
+[00:01:937] Skipping configuration Game.Linux.Debug for x64: Missing platform SDK
+[00:01:937] Skipping configuration Game.Linux.Development for x64: Missing platform SDK
+[00:01:937] Skipping configuration Game.Linux.Release for x64: Missing platform SDK
+[00:01:937] Skipping configuration Game.Android.Debug for ARM64: Missing platform SDK
+[00:01:937] Skipping configuration Game.Android.Development for ARM64: Missing platform SDK
+[00:01:937] Skipping configuration Game.Android.Release for ARM64: Missing platform SDK
+[00:01:937] Skipping configuration Game.Mac.Debug for x64: Missing platform SDK
+[00:01:937] Skipping configuration Game.Mac.Debug for ARM64: Missing platform SDK
+[00:01:937] Skipping configuration Game.Mac.Development for x64: Missing platform SDK
+[00:01:937] Skipping configuration Game.Mac.Development for ARM64: Missing platform SDK
+[00:01:937] Skipping configuration Game.Mac.Release for x64: Missing platform SDK
+[00:01:937] Skipping configuration Game.Mac.Release for ARM64: Missing platform SDK
+[00:01:937] Skipping configuration Game.iOS.Debug for ARM64: Missing platform SDK
+[00:01:937] Skipping configuration Game.iOS.Development for ARM64: Missing platform SDK
+[00:01:937] Skipping configuration Game.iOS.Release for ARM64: Missing platform SDK
+[00:01:949] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:01:980] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:01:995] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:02:019] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:02:053] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:02:075] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:02:097] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:02:120] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:02:135] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:02:157] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:02:179] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:02:200] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:02:223] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:02:245] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:02:268] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:02:291] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:02:313] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:02:335] Using Dotnet runtime versions range 9-10 for Game Cooker
+[00:02:352] Removing project reference FlaxEngine
+[00:02:354] Project Flax.Build -> D:\FlaxEngine\Flax1-11\Source\Tools\Flax.Build\Flax.Build.csproj
+[00:02:360] Project Flax.Build.Tests -> D:\FlaxEngine\Flax1-11\Source\Tools\Flax.Build.Tests\Flax.Build.Tests.csproj
+[00:02:360] Project Game -> G:\Github\FlaxOccludedRainSample\Source\Game.csproj
+[00:02:368] Saved file to G:\Github\FlaxOccludedRainSample\Source\Game.csproj
+[00:02:368] Project BuildScripts -> G:\Github\FlaxOccludedRainSample\Cache\Projects\BuildScripts.csproj
+[00:02:373] Saved file to G:\Github\FlaxOccludedRainSample\Cache\Projects\BuildScripts.csproj
+[00:02:373] Solution -> G:\Github\FlaxOccludedRainSample\FlaxOccludedRainSample.sln
+[00:02:388] Saved file to G:\Github\FlaxOccludedRainSample\FlaxOccludedRainSample.sln
+[00:02:393] Saved file to G:\Github\FlaxOccludedRainSample\FlaxOccludedRainSample.sln.DotSettings.user
+[00:02:394] Saved file to G:\Github\FlaxOccludedRainSample\Cache\Projects\Flax.Build.CSharp.SkipBuild.targets
+[00:02:397] Saved file to G:\Github\FlaxOccludedRainSample\Cache\Projects\Flax.Build.CSharp.targets
+[00:02:397] Total time: 00:00:02.4061472
+[00:02:397] End.

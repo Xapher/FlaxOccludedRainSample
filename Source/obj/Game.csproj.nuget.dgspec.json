@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Xapher\\Documents\\Flax Projects\\RainOcclusion\\Source\\Game.csproj": {}
+    "G:\\Github\\FlaxOccludedRainSample\\Source\\Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Xapher\\Documents\\Flax Projects\\RainOcclusion\\Source\\Game.csproj": {
+    "G:\\Github\\FlaxOccludedRainSample\\Source\\Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Xapher\\Documents\\Flax Projects\\RainOcclusion\\Source\\Game.csproj",
+        "projectUniqueName": "G:\\Github\\FlaxOccludedRainSample\\Source\\Game.csproj",
         "projectName": "Game.CSharp",
-        "projectPath": "C:\\Users\\Xapher\\Documents\\Flax Projects\\RainOcclusion\\Source\\Game.csproj",
+        "projectPath": "G:\\Github\\FlaxOccludedRainSample\\Source\\Game.csproj",
         "packagesPath": "C:\\Users\\Xapher\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Xapher\\Documents\\Flax Projects\\RainOcclusion\\Source\\obj\\",
+        "outputPath": "G:\\Github\\FlaxOccludedRainSample\\Source\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
